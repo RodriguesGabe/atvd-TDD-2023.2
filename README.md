@@ -1,3 +1,3 @@
 # atvd-TDD-2023.2
 
-Atividade da cadeira de testes de Software
+Atividade Test Driven Deployment
